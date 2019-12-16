@@ -10,9 +10,7 @@ INSTRUCTIONS for naming the students' solution repository for assignments with a
 * This change of the name can be done from the "Settings" tab which is located on the repo page.
 
 
-# ECBM4040 Group Project
-
-Towards Accurate Binary Convolutional Neural Network
+# ECBM4040 Group Project: Towards Accurate Binary Convolutional Neural Network
 
 Team ZXCV: Qichen Hu qh2199, Xuechun Zhang xz2795, Yingtong Han yh3067
 
