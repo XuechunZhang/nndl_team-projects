@@ -20,13 +20,14 @@ Team ZXCV: Qichen Hu qh2199, Xuechun Zhang xz2795, Yingtong Han yh3067
 There are six jupyter notebooks and one Python3 file within this folder (Keras version is another version of
 code we used at first, which works but did not work well, so we just uploaded them here for your reference):
 
-1. ResNet20_3_3.ipynb: implementation of ABC model based on ResNet20 (M=3, N=3)
-2. ResNet20_5_3.ipynb: implementation of ABC model based on ResNet20 (M=5, N=3)
-3. ResNet20_5_5.ipynb: implementation of ABC model based on ResNet20 (M=5, N=5)
-4. ResNet34_3_3.ipynb: implementation of ABC model based on ResNet34 (M=3, N=3)
-5. ResNet34_5_5.ipynb: implementation of ABC model based on ResNet34 (M=5, N=5)
-6. ResNet34_M.ipynb: implementation of ABC model without binary activation based on ResNet20 (M=1, 3, 5)
-6. utils_functions.py: functions used in building ResNet and ABC model, including creating tensorflow variables,
+1. ResNet20_3_1.ipynb: implementation of ABC model based on ResNet20 (M=3, N=1)
+2. ResNet20_3_3.ipynb: implementation of ABC model based on ResNet20 (M=3, N=3)
+3. ResNet20_5_3.ipynb: implementation of ABC model based on ResNet20 (M=5, N=3)
+4. ResNet20_5_5.ipynb: implementation of ABC model based on ResNet20 (M=5, N=5)
+5. ResNet34_3_3.ipynb: implementation of ABC model based on ResNet34 (M=3, N=3)
+6. ResNet34_5_5.ipynb: implementation of ABC model based on ResNet34 (M=5, N=5)
+7. ResNet34_M.ipynb: implementation of ABC model without binary activation based on ResNet20 (M=1, 3, 5)
+8. utils_functions.py: functions used in building ResNet and ABC model, including creating tensorflow variables,
 calling tensorflow built-in functions, and constructing ABC layer
 
 
